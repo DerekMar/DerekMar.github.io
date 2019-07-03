@@ -291,7 +291,7 @@ module.exports = ".BorderFrame{\r\n    margin-left: auto;\r\n    margin-right: a
 /***/ "./src/app/page/self-introduction/self-introduction.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"BorderFrame\">\n  <img width=\"200\" height=\"200\" alt=\"MyPicture\" class=\"MyLogo\" src=\"../assets/img/MyPicture.JPG\">\n</div>\n<h1>麦子聪</h1>\n<h3>一个注重实效的程序员</h3>\n<h2>前端开发程序员/GIS开发程序员</h2>\n<h4>广东省南方数码科技股份有限公司</h4>"
+module.exports = "<div class=\"BorderFrame\">\n  <img width=\"200\" height=\"200\" alt=\"MyPicture\" class=\"MyLogo\" src=\"./assets/img/MyPicture.JPG\">\n</div>\n<h1>麦子聪</h1>\n<h3>一个注重实效的程序员</h3>\n<h2>前端开发程序员/GIS开发程序员</h2>\n<h4>广东省南方数码科技股份有限公司</h4>"
 
 /***/ }),
 
